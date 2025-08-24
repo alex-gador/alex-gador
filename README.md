@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alejandro Díaz Burgos  
 
-<!--
-**alex-gador/alex-gador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnico en **Sistemas Microinformáticos y Redes** | En formación como **Desarrollador Web**.  
+🚀 Apasionado por la programación, la organización de proyectos y la creación de aplicaciones útiles.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que uso
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📌 Proyectos actuales
+- 🔴 **Red365** – Aplicación web de control de accesos para industrias (Laravel + JS). 
+---
+
+
+## 📊 Estadísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=AlejandroDiazBurgos&show_icons=true&theme=tokyonight)  
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDiazBurgos&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+📧 **alejandrodiazburgos.ieslapuebla@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/alejandro-diaz-burgos-084655170/)  
