@@ -15,7 +15,8 @@
 ---
 
 ## 📌 Proyectos actuales
-- 🔴 **Red365** – Aplicación web de control de accesos para industrias (Laravel + JS). 
+- 🔴 **Red365** – Aplicación web de control de accesos para industrias (Laravel + JS). (Privado)
+- 🔴 ** TodoTask ** -Aplicacion para la gestion de tareas. (Publico)
 ---
 
 
