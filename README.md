@@ -15,7 +15,8 @@
 ---
 
 ## 📌 Proyectos actuales
-- 🔴 **ComuGest** – Aplicacion Web para la Gestión Integral de una Comunidad de Vecinos
+- 🔴 **ComuGest** – Aplicacion Web para la Gestión Integral de una Comunidad de Vecinos.
+- 🔴 **Gene_Factu** – Sistema de generacion de PDF a partir de archivos csv.
 - 🔴 **Red365** – Aplicación web de control de accesos para industrias (Laravel + JS). (Privado)
 ---
 
