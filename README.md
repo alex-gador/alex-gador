@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro Díaz Burgos  
 
-💻 Técnico en **Sistemas Microinformáticos y Redes** | En formación como **Desarrollador Web**.  
+💻 Técnico en **Sistemas Microinformáticos y Redes** | Técnico Superior en **Desarrollador Web**.  
 🚀 Apasionado por la programación, la organización de proyectos y la creación de aplicaciones útiles.  
 
 ---
