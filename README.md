@@ -1,87 +1,114 @@
-# 👋 ¡Hola! Soy Alejandro Díaz Burgos
+<div align="center">
 
-💻 **SMR** · Técnico en Sistemas Microinformáticos y Redes  
-🎓 **DAW** · Técnico Superior en Desarrollo de Aplicaciones Web  
-📍 España
+<img src="https://avatars.githubusercontent.com/AlejandroDiazBurgos" width="80" style="border-radius:50%"/>
 
----
+# Alejandro Díaz Burgos
 
-## 🚀 Stack tecnológico
+Apasionado por la programación, la organización de proyectos y la creación de apps útiles.
 
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SMR](https://img.shields.io/badge/SMR-8B5CF6?style=flat-square&logoColor=white)
 
 
 
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![DAW](https://img.shields.io/badge/DAW-10B981?style=flat-square&logoColor=white)
 
 
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![España](https://img.shields.io/badge/📍_España-3B82F6?style=flat-square&logoColor=white)
 
 
 
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+</div>
 
 ---
 
-## 📌 Proyectos en producción
-
-| Proyecto | Descripción | Tech | Estado |
-|---|---|---|---|
-| 🔴 **Gene_Factu** | Generación de PDFs a partir de archivos CSV | JavaScript | 
-
-![Private](https://img.shields.io/badge/Privado-🔒-lightgrey)
-
- |
-| 🔴 **ComuGest** | Gestión integral de comunidades de vecinos | Laravel | 
-
-![Private](https://img.shields.io/badge/Privado-🔒-lightgrey)
-
- |
-| 🔴 **Gestor de tareas** | Tablero Kanban con tarjetas para gestión de tareas | JavaScript | 
-
-![Private](https://img.shields.io/badge/Privado-🔒-lightgrey)
-
- |
-
----
-
-## 📊 Estadísticas
+### 🚀 Stack tecnológico
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AlejandroDiazBurgos&show_icons=true&theme=tokyonight)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 
 
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDiazBurgos&layout=compact&theme=tokyonight)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
 
 ---
 
-## 📫 Contacto
+### 📌 En producción
+
+🔴 **Gene_Factu** · Generación de PDFs a partir de archivos CSV
+`JavaScript` 
+
+![Privado](https://img.shields.io/badge/🔒_Privado-F59E0B?style=flat-square)
+
+
+
+🔴 **ComuGest** · Gestión integral de comunidades de vecinos
+`Laravel` 
+
+![Privado](https://img.shields.io/badge/🔒_Privado-F59E0B?style=flat-square)
+
+
+
+🔴 **Gestor de tareas** · Tablero Kanban con tarjetas para gestión de tareas
+`JavaScript` `Kanban` 
+
+![Privado](https://img.shields.io/badge/🔒_Privado-F59E0B?style=flat-square)
+
+
+
+---
+
+### 📊 Estadísticas
+
+<div align="center">
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AlejandroDiazBurgos&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDiazBurgos&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+</div>
+
+---
+
+### 📫 Contacto
 
 [
 
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/alejandrodiazburgos.ieslapuebla@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
 ](mailto:alejandrodiazburgos.ieslapuebla@gmail.com)
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/alejandro--diaz--burgos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
 ](https://www.linkedin.com/in/alejandro-diaz-burgos-084655170/)
