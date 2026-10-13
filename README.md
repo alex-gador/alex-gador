@@ -66,14 +66,7 @@ Apasionado por la programación, la organización de proyectos y la creación de
 
 ### 📫 Contacto
 
-[
-
-![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
-
-](mailto:alejandrodiazburgos.ieslapuebla@gmail.com) alejandrodiazburgos.ieslapuebla@gmail.com
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/alejandro-diaz-burgos-084655170/) alejandro-diaz-burgos
+<table><tr>
+<td><a href="mailto:alejandrodiazburgos.ieslapuebla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a></td>
+<td><a href="https://www.linkedin.com/in/alejandro-diaz-burgos-084655170/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a></td>
+</tr></table>
