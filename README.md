@@ -6,19 +6,11 @@
 
 Apasionado por la programación, la organización de proyectos y la creación de apps útiles.
 
-
-
-![SMR](https://img.shields.io/badge/SMR-8B5CF6?style=flat-square&logoColor=white)
-
- 
-
-![DAW](https://img.shields.io/badge/DAW-10B981?style=flat-square&logoColor=white)
-
- 
-
-![España](https://img.shields.io/badge/📍_España-3B82F6?style=flat-square&logoColor=white)
-
-
+<table><tr>
+<td><img src="https://img.shields.io/badge/SMR-8B5CF6?style=flat-square&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/DAW-10B981?style=flat-square&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/📍_España-3B82F6?style=flat-square&logoColor=white"/></td>
+</tr></table>
 
 </div>
 
@@ -26,27 +18,13 @@ Apasionado por la programación, la organización de proyectos y la creación de
 
 ### 🚀 Stack tecnológico
 
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
- 
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
- 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
- 
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
- 
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
+<table><tr>
+<td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+<td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></td>
+<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></td>
+</tr></table>
 
 ---
 
