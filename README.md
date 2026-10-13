@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/AlejandroDiazBurgos" width="80" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/alex-gador" width="80" style="border-radius:50%"/>
 
 # Alejandro Díaz Burgos
 
@@ -10,13 +10,11 @@ Apasionado por la programación, la organización de proyectos y la creación de
 
 ![SMR](https://img.shields.io/badge/SMR-8B5CF6?style=flat-square&logoColor=white)
 
-
-
+ 
 
 ![DAW](https://img.shields.io/badge/DAW-10B981?style=flat-square&logoColor=white)
 
-
-
+ 
 
 ![España](https://img.shields.io/badge/📍_España-3B82F6?style=flat-square&logoColor=white)
 
@@ -32,23 +30,19 @@ Apasionado por la programación, la organización de proyectos y la creación de
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-
-
+ 
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-
-
+ 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-
-
+ 
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-
-
+ 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -84,18 +78,10 @@ Apasionado por la programación, la organización de proyectos y la creación de
 ### 📊 Estadísticas
 
 <div align="center">
-
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AlejandroDiazBurgos&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDiazBurgos&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=alex-gador&show_icons=true&theme=tokyonight&hide_border=true"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-gador&layout=compact&theme=tokyonight&hide_border=true"/></td>
+</tr></table>
 </div>
 
 ---
@@ -104,11 +90,12 @@ Apasionado por la programación, la organización de proyectos y la creación de
 
 [
 
-![Email](https://img.shields.io/badge/alejandrodiazburgos.ieslapuebla@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
-](mailto:alejandrodiazburgos.ieslapuebla@gmail.com)
+](mailto:alejandrodiazburgos.ieslapuebla@gmail.com) alejandrodiazburgos.ieslapuebla@gmail.com
+
 [
 
-![LinkedIn](https://img.shields.io/badge/alejandro--diaz--burgos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-](https://www.linkedin.com/in/alejandro-diaz-burgos-084655170/)
+](https://www.linkedin.com/in/alejandro-diaz-burgos-084655170/) alejandro-diaz-burgos
